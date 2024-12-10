@@ -1,10 +1,10 @@
 <!-- [Logo que fiz para o projeto](https://github.com/user-attachments/assets/eb4ba98d-cf55-4fe7-bc61-544be2d15c2e) -->
 <!-- [Minha foto](https://github.com/user-attachments/assets/b4a15e11-db97-441c-b851-c2d0558891e7) -->
 <!-- badges or shields - https://shields.io/badges -->
+<!-- [logo Procreate](https://github.com/user-attachments/assets/3c0f33f6-31f5-4197-9f28-1b2e6c88717a) -->
+<!-- [procreate-black-1695680507-logotic-brand](https://github.com/user-attachments/assets/4e6d8cc1-693e-4591-85f5-dd1e3c21ec13) -->
 
-<p align=center>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/eb4ba98d-cf55-4fe7-bc61-544be2d15c2e" width=115>
-</p>
+<p align=center> <img loading="lazy" src="https://github.com/user-attachments/assets/eb4ba98d-cf55-4fe7-bc61-544be2d15c2e" width=115> </p>
 
 <h1 align="center">👋 Hello! Welcome to my Github profile.</h1>
 <h2 align="center">My name is João Oliveira!</h2>
@@ -26,7 +26,7 @@
 </p>
 
 
-# Autor
+<h2>.Autor</h2>
 <table>
   <tr>
     <td align="center">
@@ -35,11 +35,23 @@
         <sub>João Oliveira</sub>
       </a>
     </td>
+    <td align="justify">
+      I've always been drawn to areas involving calculation and logic, which led me to pursue a degree in Civil Engineering, a field i still work in today. Recently, i've been shifting my focus towards programming to engage more directly with technology, something that has always fascinated me.
+    </td>
   </tr>
 </table>
 
-## Tools and Technologies
+<h2>.Tools and Technologies   
+  <img loading="lazy" src="https://img.shields.io/badge/JavaScript-lightgray?logo=javascript&logoColor=blue"/>
+  <img loading="lazy" src="https://img.shields.io/badge/HTML5-lightgray?logo=html5&logoColor=blue"/>
+  <img loading="lazy" src="https://img.shields.io/badge/CSS3-lightgray?logo=css3&logoColor=blue"/>
+  <img loading="lazy" src="https://img.shields.io/badge/Python-lightgray?logo=python&logoColor=blue"/>
+  <img loading="lazy" src="https://img.shields.io/badge/Swift-lightgray?logo=swift&logoColor=blue"/>
+</h2>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" width="40" height="40"/>
+<h2>.Creative Tools   
+  <img loading="lazy" src="https://img.shields.io/badge/Premiere-white?logo=adobepremierepro&logoColor=purple"/>
+  <img loading="lazy" src="https://img.shields.io/badge/Lightroom-white?logo=adobelightroom&logoColor=purple"/>
+  <img loading="lazy" src="https://img.shields.io/badge/AffinityDesigner-white?logo=affinitydesigner&logoColor=purple"/>
+  <img loading="lazy" src="https://img.shields.io/badge/ProCreate-white?"/>
+</h2>
